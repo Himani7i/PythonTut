@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore Jupyter Notebook metadata backup 
+*.nbconvert.ipynb
