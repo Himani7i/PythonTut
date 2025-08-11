@@ -13,3 +13,6 @@ env/
 
 # Ignore Jupyter Notebook metadata backup 
 *.nbconvert.ipynb
+
+# Ignore data files
+*.csv
