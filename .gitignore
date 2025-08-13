@@ -16,3 +16,6 @@ env/
 
 # Ignore data files
 *.csv
+
+*.excel
+*.xlsx
